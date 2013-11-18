@@ -1,0 +1,12 @@
+C:\Users\Umair\documents\visual studio 2010\Projects\ParrallelPortDemo\ParrallelPortDemo\bin\Debug\TVicPort.dll
+C:\Users\Umair\documents\visual studio 2010\Projects\ParrallelPortDemo\ParrallelPortDemo\bin\Debug\ParrallelPortDemo.exe
+C:\Users\Umair\documents\visual studio 2010\Projects\ParrallelPortDemo\ParrallelPortDemo\bin\Debug\ParrallelPortDemo.pdb
+C:\Users\Umair\documents\visual studio 2010\Projects\ParrallelPortDemo\ParrallelPortDemo\obj\x86\Debug\ParrallelPortDemo.csprojResolveAssemblyReference.cache
+C:\Users\Umair\documents\visual studio 2010\Projects\ParrallelPortDemo\ParrallelPortDemo\obj\x86\Debug\ParrallelPortDemo.exe
+C:\Users\Umair\documents\visual studio 2010\Projects\ParrallelPortDemo\ParrallelPortDemo\obj\x86\Debug\ParrallelPortDemo.pdb
+C:\Users\Umair\Desktop\Article Resources\ParrallelPortDemo\ParrallelPortDemo\obj\x86\Debug\ParrallelPortDemo.exe
+C:\Users\Umair\Desktop\Article Resources\ParrallelPortDemo\ParrallelPortDemo\obj\x86\Debug\ParrallelPortDemo.pdb
+C:\Users\Umair\Desktop\Article Resources\ParrallelPortDemo\ParrallelPortDemo\bin\Debug\TVicPort.dll
+C:\Users\Umair\Desktop\Article Resources\ParrallelPortDemo\ParrallelPortDemo\bin\Debug\ParrallelPortDemo.exe
+C:\Users\Umair\Desktop\Article Resources\ParrallelPortDemo\ParrallelPortDemo\bin\Debug\ParrallelPortDemo.pdb
+C:\Users\Umair\Desktop\Article Resources\ParrallelPortDemo\ParrallelPortDemo\obj\x86\Debug\ParrallelPortDemo.csprojResolveAssemblyReference.cache
